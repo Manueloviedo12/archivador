@@ -176,5 +176,8 @@
     <p>© 2026 Mi Archivador - Sistema POO PHP</p>
 </footer>
 
+
+
+
 </body>
 </html>
